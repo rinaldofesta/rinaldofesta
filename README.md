@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-<a href="https://app.daily.dev/rldfst"><img src="https://api.daily.dev/devcards/v2/BcRFEuZ7xakfSin6hf5Dg.png?type=wide&r=yfm" width="652" alt="Rinaldo Festa's Dev Card"/></a>
+<a href="https://app.daily.dev/rldfst"><img src="./devcard.png" width="356" alt="Rinaldo Festa's Dev Card"/></a>
 </div>
 
 ###

@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI<br>🎯 Striving to increase my GitHub stats rating by contributing to open source</p>
+<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI<br>🎯 Striving to increase my GitHub stats rating by contributing to open source and gain full stack skills</p>
 
 ###
 

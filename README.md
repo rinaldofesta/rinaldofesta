@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI.<br>🎯 I started my programming journey 3 months ago just for fun</p>
+<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI.<br>🎯 I started my programming journey in 2023 just for fun</p>
 
 ###
 

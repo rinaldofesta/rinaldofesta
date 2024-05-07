@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI.<br>🎯 I started my programming journey in 2023 just for fun</p>
+<p align="left">🎲 Head of Product @Cosmico<br>📚 Passionate about Data & AI and Software Engineering.<br>🎯 I started my programming journey in 2023 just for fun</p>
 
 ###
 

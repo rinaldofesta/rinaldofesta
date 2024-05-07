@@ -21,6 +21,8 @@
 ###
 
 <p align="left">My name is Rinaldo and I'm just a caffeine-fueled human trying to do adult things. Reader, to balance out madness. Lifelong-Learner.</p>
+<p align="left">For as long as I can remember, I have had a keen interest in software and computers. I started programming at the age of 12, but eventually got bored and stopped.</p>
+<p align="left">Now I'm learning again in my 30s.</p>
 
 ###
 

@@ -6,7 +6,7 @@
 
 ###
 
-<li align="left">👨‍💻 Head of Product @Cosmico</li>
+<li align="left">👨‍💻 CTO @Cosmico</li>
 <li>🔭 Passionate about AI & Software Engineering.</li>
 
 ###

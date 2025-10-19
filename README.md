@@ -6,15 +6,10 @@
 
 ###
 
-<li align="left">👨‍💻 CTO @Cosmico</li>
-<li>🔭 Passionate about AI & Software Engineering.</li>
-
-###
-<h2 align="left"></h2>
-
-<p align="left">I'm just a caffeine-fueled human trying to do adult things. Reader, to balance out madness. Lifelong-Learner.</p>
-<p align="left">For as long as I can remember, I have had a keen interest in software and computers. I started programming at the age of 12, but eventually got bored and stopped.</p>
-<p align="left">Now I'm learning again. Or at least I never quit learning.</p>
+<li align="left">CTO @Cosmico</li>
+<li>I've been building, destroying, and rebuilding forever.</li>
+<li>My job is to understand what happens when technology redefines how we work.</li>
+<li><a href="URL">rinaldofesta.com</a></li>
 
 ###
 

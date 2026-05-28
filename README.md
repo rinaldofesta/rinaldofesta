@@ -6,7 +6,6 @@
 
 ###
 
-<li align="left">CPTO @Cosmico and Co-founder, Applied AI @Play New</li>
-<li>I've been building, destroying, and rebuilding forever.</li>
-<li>My job is to understand what happens when technology redefines how we work.</li>
+<li align="left">CPTO @Cosmico and Co-founder, Applied AI engineer @Play New</li>
+<li>Building & measuring the reliability layer for enterprise AI agents. MCP, memory, provenance. Open source</li>
 <li><a href="https://rinaldofesta.com">rinaldofesta.com</a></li>

@@ -6,6 +6,6 @@
 
 ###
 
-<li align="left">CPTO @Cosmico and Co-founder, Applied AI engineer @Play New</li>
+<li align="left">Co-founder, Applied AI / Agentic engineer @Play New and CPTO @Cosmico</li>
 <li>Building & measuring the reliability layer for enterprise AI agents. MCP, memory, provenance. Open source</li>
 <li><a href="https://rinaldofesta.com">rinaldofesta.com</a></li>
